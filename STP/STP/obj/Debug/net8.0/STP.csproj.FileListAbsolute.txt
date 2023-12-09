@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\STP\STP\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\HP\source\repos\STP\STP\obj\Debug\net8.0\STP.csproj.ResolveComReference.cache
+C:\Users\HP\source\repos\STP\STP\obj\Debug\net8.0\STP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\STP\STP\obj\Debug\net8.0\STP.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\STP\STP\obj\Debug\net8.0\STP.AssemblyInfo.cs
+C:\Users\HP\source\repos\STP\STP\obj\Debug\net8.0\STP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\STP\STP\bin\Debug\net8.0\STP.exe
+C:\Users\HP\source\repos\STP\STP\bin\Debug\net8.0\STP.deps.json
+C:\Users\HP\source\repos\STP\STP\bin\Debug\net8.0\STP.runtimeconfig.json
+C:\Users\HP\source\repos\STP\STP\bin\Debug\net8.0\STP.dll
+C:\Users\HP\source\repos\STP\STP\bin\Debug\net8.0\STP.pdb
+C:\Users\HP\source\repos\STP\STP\obj\Debug\net8.0\STP.dll
+C:\Users\HP\source\repos\STP\STP\obj\Debug\net8.0\refint\STP.dll
+C:\Users\HP\source\repos\STP\STP\obj\Debug\net8.0\STP.pdb
+C:\Users\HP\source\repos\STP\STP\obj\Debug\net8.0\STP.genruntimeconfig.cache
+C:\Users\HP\source\repos\STP\STP\obj\Debug\net8.0\ref\STP.dll
