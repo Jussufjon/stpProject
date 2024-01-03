@@ -45,11 +45,14 @@ namespace STP
         public String[] docsOverview(Status openedFileStatus)
         {
             String[] directory = Directory.GetFiles(directoryPath + openedFileStatus);
-            String[] directoryFiles = new String[directory.Length];
+            String[] directoryFiles = new String[directory.Length - 1];
 
             for (int i=0;i<directory.Length;i++)
             {
-                directoryFiles[i] = directory[i].Split(@"\")[filesPathIndex].Replace(".pdf", "");
+                if (directory[i].EndsWith(".pdf"))
+                {
+                    directoryFiles.Append(directory[i].Split(@"\")[filesPathIndex].Replace(".pdf", ""));
+                }
             }
            return directoryFiles;
         }
